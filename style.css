@@ -116,6 +116,30 @@
         width: 90%;
     }
 }
+#tableau-bar{
+    animation: db-fill 2s forwards;
+}
+@keyframes db-fill{
+    100%{
+        width: 90%;
+    }
+}
+#excel-bar{
+    animation: db-fill 2s forwards;
+}
+@keyframes db-fill{
+    100%{
+        width: 80%;
+    }
+}
+#db-bar{
+    animation: db-fill 2s forwards;
+}
+@keyframes db-fill{
+    100%{
+        width: 90%;
+    }
+}
 #html-bar{
     animation: html-fill 2s forwards;
 }
