@@ -117,17 +117,17 @@
     }
 }
 #tableau-bar{
-    animation: db-fill 2s forwards;
+    animation: excel-fill 2s forwards;
 }
-@keyframes db-fill{
+@keyframes tableau-fill{
     100%{
         width: 90%;
     }
 }
 #excel-bar{
-    animation: db-fill 2s forwards;
+    animation: excel-fill 2s forwards;
 }
-@keyframes db-fill{
+@keyframes excel-fill{
     100%{
         width: 80%;
     }
