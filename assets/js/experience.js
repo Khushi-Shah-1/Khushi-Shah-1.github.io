@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/manentia.png",
     place: " Manentia AI",
     time: "(June, 2022 - May 2023)",
-    desp: ""},
+    desp: "Worked on researching and implementing Lung Segmenattion and Lung nodule segmentation through CT scans using UNet(mCT product). Implemented Preprocessing of raw CT scans obtained from hospitals. Also implemented classification of the nodule into benign or malignant using DenseNet."},
 
   {
     title: "Research Intern",
